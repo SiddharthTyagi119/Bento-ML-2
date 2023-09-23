@@ -3,3 +3,6 @@ bentoml models list
 
 2- To run the model through api
 bentoml serve service.py:service --reload
+
+3- To build the project 
+bentoml build
