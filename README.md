@@ -4,6 +4,9 @@ everything you need for model serving , application packaging and deployment.
 
 # How to Run
 1- Install Requirements
+
 2- Train the model and saved it
+
 3- Test the model
+
 4-
