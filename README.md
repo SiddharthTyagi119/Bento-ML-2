@@ -9,4 +9,4 @@ everything you need for model serving , application packaging and deployment.
 
 3- Test the model
 
-4-
+4- Export the model through API

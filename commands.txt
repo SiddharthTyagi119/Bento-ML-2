@@ -1,4 +1,5 @@
 1- To check all the trained models
 bentoml models list
 
-2- 
+2- To run the model through api
+bentoml serve service.py:service --reload
